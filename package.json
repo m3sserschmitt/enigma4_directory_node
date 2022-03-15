@@ -1,0 +1,16 @@
+{
+  "name": "enigma4_directory_node",
+  "version": "1.0.0",
+  "description": "enigma4 network directory app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rujas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2"
+  }
+}
